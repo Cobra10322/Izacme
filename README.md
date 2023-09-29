@@ -15,6 +15,6 @@ pip install stdiomask
 
 git clone https://github.com/Cobra10322/Izacme
 
-cd KrekFB
+cd Izacme
 
 python main.py
